@@ -17,7 +17,6 @@ date_default_timezone_set("Asia/Karachi");
 $messages = [
     "Keep learning every day.",
     "Hard work always pays off.",
-    "Patience brings success.",
     "Trust Allah and move forward.",
     "Improve yourself step by step."
 ];
@@ -27,7 +26,7 @@ $time = date("d M Y, h:i A");
 ?>
 
 <div class="box">
-    <h2>Motivational Message</h2>
+    <h2>Motivational Mess123age</h2>
     <p><?php echo $message; ?></p>
     <small>Generated at: <?php echo $time; ?></small>
 
