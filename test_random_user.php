@@ -13,7 +13,7 @@
 <body>
 
 <?php
-$users = ["Ali", "Ahmed", "Fatima", "Ayesha", "Hassan", "Zainab"];
+$users = ["Ali", "Sarfraz Ahmed", "Sulman", "Tayyab", "Hassan", "Tahir"];
 $selected = $users[array_rand($users)];
 ?>
 
