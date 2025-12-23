@@ -17,7 +17,7 @@ $users = ["Ali", "Sarfraz Ahmed", "Sulman", "Tayyab", "Hassan", "Tahir"];
 $selected = $users[array_rand($users)];
 ?>
 
-<h2>Random User Selected</h2>
+<h2>Random User 23456546546</h2>
 
 <table>
     <tr>
